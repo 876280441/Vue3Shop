@@ -1,19 +1,4 @@
-# submit_work
+## vue3商城项目
+**改项目使用了vue3，接口是网上的，我也写了一个差不多的接口，奈何没有数据，就没有接上去**
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+项目上线地址:show.tot7.cn
